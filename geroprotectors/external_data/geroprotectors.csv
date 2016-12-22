@@ -1,0 +1,142 @@
+Name	SMILES	Mean	Median	Max
+Amoxapine	Clc1ccc2Oc3ccccc3N=C(N4CCNCC4)c2c1	33		
+Amperozide Hydrochloride	Cl.CCNC(=O)N1CCN(CCCC(c2ccc(F)cc2)c3ccc(F)cc3)CC1	38		
+Ascorbic Acid	OC[C@H](O)[C@H]1OC(=O)C(=C1O)O	66.67		
+Aspirin	CC(=O)Oc1ccccc1C(=O)O	23		
+Bacitracin	CC[C@H](C)[C@H](N)C1=N[C@@H](CS1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@H](CCC(O)=O)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@H]1CCCCNC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](CC(O)=O)NC(=O)[C@H](Cc2c[nH]cn2)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)[C@@H](CCCN)NC1=O)[C@@H](C)CC			74
+Baicalein	Oc1cc2OC(=CC(=O)c2c(O)c1O)c3ccccc3	45	57	24
+2-Deoxy-D-Glucose	OC[C@H]1OC(O)C[C@@H](O)[C@@H]1O	17		25
+3,3-Diethyl-2-Pyrrolidinone	CCC1(CC)CCNC1=O	31		49
+3,4-Dichloroisocoumarin	ClC1=C(Cl)c2ccccc2C(=O)O1	13		
+Caffeic Acid	OC(=O)\C=C\c1ccc(O)c(O)c1	11		
+Caffeine	CN1C(=O)N(C)c2ncn(C)c2C1=O		29.4	52
+Carbenicillin	CC1(C)S[C@@H]2[C@H](NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2[C@H]1C(=O)O	23.67		
+Carbonyl Cyanide M-Chlorophenyl Hydrazone	Clc1cccc(NN=C(C#N)C#N)c1		60	
+Carbonylcyanide-P-Trifluoromethoxyphenylhydrazone	FC(F)(F)Oc1ccc(NN=C(C#N)C#N)cc1	38.46		
+Ciclopirox Olamine	CC1=CC(=O)N(O)C(=C1)C2CCCCC2.NCCO			52
+Cinnarizine	C(\C=C\c1ccccc1)N2CCN(CC2)C(c3ccccc3)c4ccccc4	15		
+Cis-(Z)-Flupenthixol Dihydrochloride	Cl.Cl.OCCN1CCN(CC\C=C/2\c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1	30		
+Clofibrate	CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1	16.2		
+Cortexolone Maleate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@]4(O)C(=O)CO	11		
+Beta-Estradiol	C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2O	7		
+Bezafibrate	CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(=O)O	12.96		
+Brl 15572	Cl.OC(CN1CCN(CC1)c2cccc(Cl)c2)C(c3ccccc3)c4ccccc4	10		
+Brl 50481	CN(C)S(=O)(=O)c1cc(ccc1C)[N+](=O)[O-]	18		
+BTCP Hydrochloride	Cl.C1CCN(CC1)C2(CCCCC2)c3cc4ccccc4s3	14		
+Buformin	CCCC\N=C(\N)/N=C(N)N		23.5	26.1
+CaEDTA	OC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O		23.39	12.49
+4-Phenyl-3-Furoxancarbonitrile	[O-][n+]1onc(c2ccccc2)c1C#N	30		
+4′-O-Methyl Epicatechin	COC1=C(C=C(C=C1)C2C(CC3=C(C=C(C=C3O2)O)O)O)O	13	11	10
+7-Cyclopentyl-5-(4-Phenoxy)Phenyl-7H-Pyrrolo[2,3-D]Pyrimidin-4-Ylamine	Nc1ncnc2c1c(cn2C3CCCC3)c4ccc(Oc5ccccc5)cc4	11		
+Acetaminophen	CC(=O)Nc1ccc(O)cc1			66
+Amn082	Cl.Cl.C(CNC(c1ccccc1)c2ccccc2)NC(c3ccccc3)c4ccccc4	8		
+Catechin	O.O[C@H]1Cc2c(O)cc(O)cc2O[C@@H]1c3ccc(O)c(O)c3	9	13	
+Celecoxib	Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)S(=O)(=O)N)C(F)(F)F	20		
+Chicoric Acid	OC(=O)[C@@H](OC(=O)\C=C\c1ccc(O)c(O)c1)[C@H](OC(=O)\C=C\c2ccc(O)c(O)c2)C(=O)O	20.6		
+Chloramphenicol	OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)c1ccc(cc1)[N+](=O)[O-]		17	
+Chlorprothixene Hydrochloride	Cl.CN(C)CC\C=C/1\c2ccccc2Sc3ccc(Cl)cc13	33		
+10-Hydroxy-2-Decenoic Acid	C(CCCC=CC(=O)O)CCCO	11		
+2-(2-Aminophenyl)-1H-Benzimidazole	Nc1ccccc1c2nc3ccccc3[nH]2		35	
+2-(2-Hydroxyphenyl) Benzothiazole (Hbt)	Oc1ccccc1c2nc3ccccc3s2		23	
+2-(2-Hydroxyphenyl)-Benzoxazole	Oc1ccccc1c2oc3ccccc3n2		40	
+(R,R)-Cis-Diethyl Tetrahydro-2,8-Chrysenediol	CC[C@@H]1Cc2cc(O)ccc2C3=C1c4ccc(O)cc4C[C@H]3CC	7		
+1,2,3,4,6-Penta-O-Galloyl-B-D-Glucose	Oc1cc(cc(O)c1O)C(=O)OC[C@H]2O[C@@H](OC(=O)c3cc(O)c(O)c(O)c3)[C@H](OC(=O)c4cc(O)c(O)c(O)c4)[C@@H](OC(=O)c5cc(O)c(O)c(O)c5)[C@@H]2OC(=O)c6cc(O)c(O)c(O)c6	15.7		
+Doxycycline	C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(=C(C(=O)N)C(=O)[C@@]3(O)C(=C2C(=O)c4c(O)cccc14)O)O	18	17	
+Eliprodil	OC(CN1CCC(Cc2ccc(F)cc2)CC1)c3ccc(Cl)cc3	16		
+Ellagic Acid	Oc1cc2C(=O)Oc3c(O)c(O)cc4C(=O)Oc(c1O)c2c34	10		
+Epigallocatechin Gallate	Oc1cc(O)c2C[C@@H](OC(=O)c3cc(O)c(O)c(O)c3)[C@H](Oc2c1)c4cc(O)c(O)c(O)c4	10.1		
+Ethidium Bromide	[Br-].CC[n+]1c(c2ccccc2)c3cc(N)ccc3c4ccc(N)cc14		70	
+Curcumin	COc1cc(\C=C\C(=O)CC(=O)\C=C\c2ccc(O)c(OC)c2)ccc1O	45		
+Cyclosporin A	CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C	15		
+Cyproterone Acetate	CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(Cl)C4=CC(=O)[C@@H]5C[C@@H]5[C@]4(C)[C@H]3CC[C@]12C)C(=O)C	23		
+Ethosuximide	CCC1(C)CC(=O)NC1=O	17		
+Euk-134	COC1=CC=CC(=C1[O-])C=NCCN=CC2=C(C(=CC=C2)OC)[O-].[Cl-].[Mn+3]	38		46
+Euk-8	C1=CC=C(C(=C1)C=NCCN=CC2=CC=CC=C2[O-])[O-].[Cl-].[Mn+3]	52		36
+Fenofibrate	CC(C)OC(=O)C(C)(C)Oc1ccc(cc1)C(=O)c2ccc(Cl)cc2	18.52		16.7
+Genistein	Oc1ccc(cc1)C2=COc3cc(O)cc(O)c3C2=O	14		
+Glaucarubinone	CC[C@](C)(O)C(=O)O[C@@H]1[C@H]2[C@@H](C)[C@@H](O)[C@]3(O)OC[C@]24[C@@H](C[C@H]5C(=CC(=O)[C@@H](O)[C@]5(C)[C@@H]34)C)OC1=O	9.5		8.4
+Glutathione	N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O	73.33		
+Guanabenz Acetate	CC(=O)O.C1=CC(=C(C(=C1)Cl)C=NN=C(N)N)Cl	12		
+Guanfacine Hydrochloride	Cl.NC(=N)NC(=O)Cc1c(Cl)cccc1Cl	15		
+Demeclocycline	CN(C)[C@H]1[C@@H]2C[C@@H]3[C@H](O)c4c(Cl)ccc(O)c4C(=O)C3=C(O)[C@]2(O)C(=O)C(=C1O)C(=O)N	16		
+Dibromoacetic Acid	OC(=O)C(Br)Br	14.6		
+Dichloroacetate	[Na+].[O-]C(=O)C(Cl)Cl	19		16
+D-Glucosamine	N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O	8		8
+Dafadine-A	Cc1cccc(C)c1OCc2onc(c2)C(=O)N3CCC(CC3)c4ccncc4	29		
+Danazol	C[C@]12Cc3cnoc3C=C1CC[C@@H]4[C@@H]2CC[C@@]5(C)[C@H]4CC[C@@]5(O)C#C	13		
+DAPH	O=C1NC(=O)c2cc(Nc3ccccc3)c(Nc4ccccc4)cc12	15		
+Dihydroergotamine Methanesulfonate	CC(C)[C@@]1(NC(=O)[C@@H]2C[C@H]3[C@@H](Cc4c[nH]c5cccc3c45)N(C)C2)O[C@@]6(O)[C@@H]7CCCN7C(=O)[C@H](Cc8ccccc8)N6C1=O.CS(=O)(=O)O	34		
+Dimethyl Formamide	CN(C)C=O	30		
+Dimethyl Sulfoxide	C[S+](C)[O-]	24.4		
+Doxazosin Mesylate	COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)C4COc5ccccc5O4.CS(=O)(=O)O	15		
+Fisetin	OC1=C(Oc2cc(O)ccc2C1=O)c3ccc(O)c(O)c3	5.6		
+Fumarate	OC(=O)\C=C\C(=O)O	16		
+Gallic Acid	OC(=O)c1cc(O)c(O)c(O)c1	10		
+Hexahydro-Sila-Difenidol Hydrochloride	Cl.O[Si](CCCN1CCCCC1)(C2CCCCC2)c3ccc(F)cc3	15		
+Ibuprofen	CC(C)Cc1ccc(cc1)C(C)C(=O)O		10	
+Malate	C(C(C(=O)O)O)C(=O)O	14		
+Maltose	OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O	8.18		
+Metergoline	CN1C[C@H](CNC(=O)OCc2ccccc2)C[C@H]3[C@H]1Cc4cn(C)c5cccc3c45	23		
+Metformin	CN(C)C(=N)NC(=N)N	40		26.1
+Juglone	Oc1cccc2C(=O)C=CC(=O)c12	29	62.5	
+Kanamycin	NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O.OS(=O)(=O)O	24.69		27
+Kenpaullone	Brc1ccc2[nH]c3c(CC(=O)Nc4ccccc34)c2c1	27		
+Ketanserin Tartrate	OC(C(O)C(=O)O)C(=O)O.Fc1ccc(cc1)C(=O)C2CCN(CCN3C(=O)Nc4ccccc4C3=O)CC2	13		
+Methiothepin	CSc1ccc2Sc3ccccc3CC(N4CCN(C)CC4)c2c1	25		
+Methylergonovine Maleate	CC[C@@H](CO)NC(=O)[C@H]1CN(C)[C@@H]2Cc3c[nH]c4cccc(C2=C1)c34.OC(=O)\C=C/C(=O)O	28		
+Mianserin	CN1CCN2C(C1)c3ccccc3Cc4ccccc24	32		
+Minocycline	CN(C)[C@H]1[C@@H]2C[C@@H]3Cc4c(ccc(O)c4C(=O)C3=C(O)[C@]2(O)C(=O)C(=C1O)C(=O)N)N(C)C	29		
+L-Theanine	CCNC(=O)CC[C@H](N)C(=O)O	3.1		4.4
+L-744,832	CC[C@@H](C)[C@@H](CO[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCS(=O)(=O)C)C(=O)OC(C)C)NC[C@@H](N)CS		22	
+Lfm-A13	C\C(=C(/C#N)\C(=O)Nc1cc(Br)ccc1Br)\O	27		
+Lithium Chloride	[Li+].[Cl-]	10		
+Naphthazarin	Oc1ccc(O)c2C(=O)C=CC(=O)c12	13		
+Nicardipine Hydrochloride	Cl.COC(=O)C1=C(C)NC(=C(C1c2cccc(c2)[N+](=O)[O-])C(=O)OCCN(C)Cc3ccccc3)C	23		
+Nicotinamide Adenine Dinucleotide	NC(=O)c1ccc[n+](c1)[C@@H]2O[C@H](COP(=O)([O-])OP(=O)(O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O	15		
+Nitrendipine	CCOC(=O)C1=C(C)NC(=C(C1c2cccc(c2)[N+](=O)[O-])C(=O)OC)C	25		
+Lonidamine	OC(=O)c1nn(Cc2ccc(Cl)cc2Cl)c3ccccc13	8		8
+Loratadine	CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc4cccnc24)CC1	18		
+Loxapine Succinate	CN1CCN(CC1)C2=Nc3ccccc3Oc4ccc(Cl)cc24.OC(=O)CCC(=O)O	43		
+Ly-367,265	Fc1ccc2c(c[nH]c2c1)C3=CCN(CCN4c5cccc6CCCN(c56)S4(=O)=O)CC3	34		
+Ly294002	O=C1C=C(Oc2c1cccc2c3ccccc3)N4CCOCC4	10		
+Oxatomide	O=C1Nc2ccccc2N1CCCN3CCN(CC3)C(c4ccccc4)c5ccccc5	25		
+Oxoline	C1=CC=C2C(=C1)C(=O)C(=O)C(=O)C2=O	13		0.1
+Papp	Nc1ccc(CCN2CCN(CC2)c3cccc(c3)C(F)(F)F)cc1	33		
+Paraquat	C[n+]1ccc(cc1)c2cc[n+](C)cc2	57.61		
+Pergolide Methanesulfonate	CCCN1C[C@H](CSC)C[C@H]2[C@H]1Cc3c[nH]c4cccc2c34.CS(=O)(=O)O	37		
+Myricetin	OC1=C(Oc2cc(O)cc(O)c2C1=O)c3cc(O)c(O)c(O)c3	32.9		
+Myxothiazol	CC(C)C=CC=CC(C)C1=NC(=CS1)C2=NC(=CS2)C=CC(C(C)C(=CC(=O)N)OC)OC	34.62		
+N-(2-[4-(4-Chlorophenyl)Piperazin-1-Yl]Ethyl)-3-Methoxybenzamide	COc1cccc(c1)C(=O)NCCN2CCN(CC2)c3ccc(Cl)cc3	35		
+N-Nitrosodimethylamine	CN(C)N=O	5.5		
+Naftopidil Dihydrochloride	Cl.Cl.COc1ccccc1N2CCN(CC(O)COc3cccc4ccccc34)CC2	14		
+Nortriptyline Hydrochloride	Cl.CNCCC=C1c2ccccc2CCc3ccccc13	21		
+Octoclothepin Maleate	CN1CCN(CC1)C2Cc3ccccc3Sc4ccc(Cl)cc24.OC(=O)\C=C/C(=O)O	38		
+Oleoylethanolamide	CCCCCCCC\C=C/CCCCCCCC(=O)NCCO	15		
+Oxaloacetic Acid	OC(=O)CC(=O)C(=O)O		25	13
+Trehalose	OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O	32		
+Trequinsin Hydrochloride	Cl.COc1cc2CCN3C(=O)N(C)\C(=N\c4c(C)cc(C)cc4C)\C=C3c2cc1OC	27		
+Trimethadione	CN1C(=O)OC(C)(C)C1=O	45		58
+Tyrosol	OCCc1ccc(O)cc1	19		10.8
+Propionylpromazine Hydrochloride	Cl.CCC(=O)c1ccc2Sc3ccccc3N(CCCN(C)C)c2c1	20		
+Psora-4	O=C1Oc2cc3occc3c(OCCCCc4ccccc4)c2C=C1	42		
+Quercetin	OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccc(O)c(O)c3		21	
+Quercetin-3-O-Glucoside	OC[C@H]1O[C@@H](OC2=C(Oc3cc(O)cc(O)c3C2=O)c4ccc(O)c(O)c4)[C@H](O)[C@@H](O)[C@@H]1O	23		
+Quinidine Sulfate	COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O.COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O.OS(=O)(=O)O	12		
+Ursolic Acid	C[C@@H]1CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2[C@H]1C)C(=O)O	39		
+Valproic Acid	[Na+].CCCC(CCC)C(=O)[O-]	35		43
+Valpromide	CCCC(CCC)C(=O)N	21		35
+Vincristine Sulfate	CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O	12		
+Vinpocetine	CCOC(=O)C1=C[C@]2(CC)CCCN3CCc4c([C@H]23)n1c5ccccc45	15		
+Rosmarinic Acid	OC(=O)[C@@H](Cc1ccc(O)c(O)c1)OC(=O)\C=C\c2ccc(O)c(O)c2	10		
+Polydatin	OC[C@H]1O[C@@H](Oc2cc(O)cc(\C=C\c3ccc(O)cc3)c2)[C@H](O)[C@@H](O)[C@@H]1O	30.7		
+Promethazine Hydrochloride	Cl.CC(CN1c2ccccc2Sc3ccccc13)N(C)C	32		
+Spermidine	NCCCCNCCCN	15		
+Resveratrol	Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1		17.8	
+Rifampicin	CO[C@H]1\C=C\O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(NC(=O)\C(=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(=O)C)[C@@H]1C)\C)c(\C=N\N5CCN(C)CC5)c(O)c4c3C2=O	45		
+Su 4312	CN(C)c1ccc(\C=C/2\C(=O)Nc3ccccc23)cc1	5		
+Tannic Acid	C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O	18		59
+Thioflavin T	[Cl-].CN(C)c1ccc(cc1)c2sc3cc(C)ccc3[n+]2C		60	78
+Thioridazine Hydrochloride	Cl.CSc1ccc2Sc3ccccc3N(CCC4CCCCN4C)c2c1	31		
+Vitamin B3	NC(=O)c1cccnc1	6		
+Vitamin D3	CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2\C(=C\C=C/3\C[C@@H](O)CCC3=C)\CCC[C@]12C	39		
+Α-Ketoglutarate	C(CC(=O)[O-])C(=O)C(=O)[O-]	50		
