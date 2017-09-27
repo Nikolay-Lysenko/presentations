@@ -9,7 +9,7 @@ Each notebook from the repository contains a section with problem description. I
 ### How to run these notebooks locally?
 Of course, you can modify notebooks from the repository, play with them, tune some parameters, and change experiments' settings.
 
-To create an isolated virtual environment, install all necessary packages into it, and create Jupyter kernel with this environment, run below commands from your terminal (they work on Linux and, probably, on other operating systems).
+To create an isolated virtual environment, to install all necessary packages into it, and to create Jupyter kernel with this environment, run below commands from your terminal (they work on Linux and, probably, on other operating systems).
 ```
 cd path/to/your/destination
 git clone https://github.com/Nikolay-Lysenko/presentations
@@ -19,6 +19,6 @@ source activate presentations_env
 python -m ipykernel install --user --name=presentations_env
 ```
 
-However, note that notebook named `geroproptectors_search_with_pu_learning.ipynb` is written in Python 2.7. This is done, because there are some issues with `rdkit` package for Python 3. Thus, this notebook can not be run from kernel described above. To run it, read its 'Software Requirements' section and follow instructions from there. 
+However, note that notebook named `geroproptectors_search_with_pu_learning.ipynb` is written in Python 2.7. This is done, because there are some issues with `rdkit` package for Python 3. Thus, this notebook can not be run from kernel described above. To run it, read its *'Software Requirements'* section and follow instructions from there. 
 
 
